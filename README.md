@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ninaad</h1>
-<h3 align="center">An aspiring data scientist in the biotech field.</h3>
+<h3 align="center"> As an aspiring data scientist with a strong background in biochemistry, I aim to bridge the gap between data scientists and lab technicians in laboratory settings. By leveraging an expertise in both domains and fostering interdisciplinary collaboration, I strive to enhance the integration of data science techniques for research. Ultimately, my goal is to drive advancements in biotechnology and maximize the potential of data-driven discoveries.</h3>
 
 - 🌱 I’m currently learning **Andrew Ng's "Machine Learning Specialization" on Coursera**
 
-- 👀 I’m interested in **machinge learning and deep learning applications in bioinformatics and biotechnology.**
+- 👀 I’m interested in **machine learning and deep learning applications in bioinformatics and biotechnology.**
 
 - 📫 How to reach me **ninaadkalla@gmail.com**
 
