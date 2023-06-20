@@ -1,4 +1,4 @@
-<h1 align="center"> 👋🏽 Hi, I'm Ninaad</h1>
+<h2 align="left"> 👋🏽 Hi, I'm Ninaad</h2>
 
 <h3 align="left"> As an aspiring data scientist with a strong background in biochemistry 🔬, I aim to bridge the gap between data scientists and lab technicians in laboratory settings. By leveraging an expertise in both domains and fostering interdisciplinary collaboration, I strive to enhance the integration of data science techniques for research. Ultimately, my goal is to drive advancements in biotechnology and maximize the potential of data-driven discoveries.</h3>
 
