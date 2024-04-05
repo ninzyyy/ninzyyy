@@ -2,7 +2,7 @@
 
 As an aspiring data scientist with a strong background in biochemistry 🔬, I aim to bridge the gap between data scientists 🧑🏻‍💻 and lab technicians 👨🏻‍🔬 in laboratory settings. By leveraging an expertise in both domains and fostering interdisciplinary collaboration, I strive to enhance the integration of data science techniques for research 🧫. Ultimately, my goal is to drive advancements in biotechnology and maximize the potential of data-driven discoveries 🚀.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms** through self-study and grinding out leetcode challenges. 
+- 🌱 I’m currently learning **R Programming Logic** through swirl and additional self-study. 
 
 - 👀 I’m interested in **machine learning and deep learning applications in bioinformatics and biotechnology.**
 
