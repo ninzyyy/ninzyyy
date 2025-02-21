@@ -1,12 +1,10 @@
-<h2 align="left"> 👋🏽 Hi, I'm Ninaad</h2>
+<h2 align="left"> Hi, I'm Ninaad</h2>
 
-As an aspiring data scientist with a strong background in biochemistry 🔬, I aim to bridge the gap between data scientists 🧑🏻‍💻 and lab technicians 👨🏻‍🔬 in laboratory settings. By leveraging an expertise in both domains and fostering interdisciplinary collaboration, I strive to enhance the integration of data science techniques for research 🧫. Ultimately, my goal is to drive advancements in biotechnology and maximize the potential of data-driven discoveries 🚀.
+🌱 I'm an aspiring Bioinformatician currently pursuing my **Master's degree in Bioinformatics** at l'Université de Montréal. 
 
-- 🌱 I’m currently pursuing my **Master's degree in Bioinformatics** at Université de Montréal. 
+👀 I’m interested in applications of **interpretable** machine learning to digest complex problems in **biotechnology.**
 
-- 👀 I’m interested in **machine learning and deep learning applications in bioinformatics and biotechnology.**
-
-- ✉️ How to reach me: **ninaadkalla@gmail.com**
+✉️ **ninaadkalla@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
